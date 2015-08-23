@@ -1,8 +1,8 @@
 {
     "name": "Love Live! - Eli Ayase",
-    "version": "0.0.3.9",
+    "version": "1.0.0.0",
     "manifest_version": 2,
-    "description": "A theme featuring Love Live!'s Eli Ayase!",
+    "description": "A theme featuring Love Live!'s Eli Ayase in her outfit from the song Bokura wa Ima no Naka de",
     "icons": {
         "128": "img/icon128.png"
     },
