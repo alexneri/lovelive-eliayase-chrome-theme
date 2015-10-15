@@ -12,6 +12,7 @@ If you think you are okay with all of the above, then, goodluck!
 If you got further questions, send it to hello@mediaindex.zendesk.com
 
 OR follow me at twitter.com/DotCrosse
+And better yet, Like us @ facebook! fb.me/sakuraindex
 
 Cheers
 
